@@ -1,7 +1,10 @@
 {
   "name": "franceculture-dl",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Download podcasts from France Culture",
+  "bin": {
+    "franceculture-dl": "app.js"
+  },
   "main": "app.js",
   "dependencies": {
     "progress": "~1.1.5"
@@ -23,5 +26,6 @@
   "bugs": {
     "url": "https://github.com/BafS/franceculture-downloader/issues"
   },
-  "homepage": "https://github.com/BafS/franceculture-downloader"
+  "homepage": "https://github.com/BafS/franceculture-downloader",
+  "preferGlobal": "true"
 }

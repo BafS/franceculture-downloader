@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var http = require('http');
 var ProgressBar = require('progress');
 var fs = require('fs');
