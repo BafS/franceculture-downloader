@@ -1,0 +1,6 @@
+*.log
+*.mp3
+*.tmp
+
+# Dependency directory
+node_modules

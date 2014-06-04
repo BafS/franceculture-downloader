@@ -1,0 +1,27 @@
+{
+  "name": "franceculture-dl",
+  "version": "0.1.0",
+  "description": "Download podcasts from France Culture",
+  "main": "app.js",
+  "dependencies": {
+    "progress": "~1.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BafS/franceculture-downloader"
+  },
+  "keywords": [
+    "franceculture",
+    "downloader"
+  ],
+  "author": "Fabien Sa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BafS/franceculture-downloader/issues"
+  },
+  "homepage": "https://github.com/BafS/franceculture-downloader"
+}
