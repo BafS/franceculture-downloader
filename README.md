@@ -3,10 +3,12 @@
 This is a simple tool to download France Culture podcasts.
 
 ## Installation
-`npm install franceculture-dl`
+Install globally:
+
+    npm install -g franceculture-dl
 
 ## Usage
-`franceculture-dl [option] <url>`
+    franceculture-dl [option] <url>
 
 Example :
 
